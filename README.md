@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/ankurlodh/Python-DSA/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,29 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
