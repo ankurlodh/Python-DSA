@@ -15,12 +15,14 @@
 | [0074-search-a-2d-matrix](https://github.com/ankurlodh/Python-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/ankurlodh/Python-DSA/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/ankurlodh/Python-DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankurlodh/Python-DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ankurlodh/Python-DSA/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,10 +44,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ankurlodh/Python-DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankurlodh/Python-DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -66,5 +70,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankurlodh/Python-DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
