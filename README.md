@@ -23,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ankurlodh/Python-DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ankurlodh/Python-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ankurlodh/Python-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ankurlodh/Python-DSA/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ankurlodh/Python-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ankurlodh/Python-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ankurlodh/Python-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankurlodh/Python-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ankurlodh/Python-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ankurlodh/Python-DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ankurlodh/Python-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
