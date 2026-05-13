@@ -72,4 +72,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/ankurlodh/Python-DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ankurlodh/Python-DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ankurlodh/Python-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
