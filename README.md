@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankurlodh/Python-DSA/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/ankurlodh/Python-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ankurlodh/Python-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -37,6 +38,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ankurlodh/Python-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ankurlodh/Python-DSA/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ankurlodh/Python-DSA/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ankurlodh/Python-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
