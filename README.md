@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankurlodh/Python-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ankurlodh/Python-DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ankurlodh/Python-DSA/tree/master/0035-search-insert-position) |
@@ -44,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankurlodh/Python-DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ankurlodh/Python-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankurlodh/Python-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankurlodh/Python-DSA/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ankurlodh/Python-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
