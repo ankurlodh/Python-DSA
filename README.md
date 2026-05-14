@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankurlodh/Python-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ankurlodh/Python-DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ankurlodh/Python-DSA/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/ankurlodh/Python-DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/ankurlodh/Python-DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/ankurlodh/Python-DSA/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -28,6 +29,7 @@
 | [0141-linked-list-cycle](https://github.com/ankurlodh/Python-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankurlodh/Python-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ankurlodh/Python-DSA/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/ankurlodh/Python-DSA/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +104,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankurlodh/Python-DSA/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ankurlodh/Python-DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ankurlodh/Python-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
