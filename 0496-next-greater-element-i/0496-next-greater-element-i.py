@@ -1,19 +1,22 @@
-class Solution:
-    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-
-        stack = []
-        mapping = {}
-
-        for num in nums2:
-
-            while stack and num > stack[-1]:
-                mapping[stack.pop()] = num
-
-            stack.append(num)
+class Solution(object):
+    def nextGreaterElement(self, nums1, nums2):
 
         result = []
 
         for num in nums1:
-            result.append(mapping.get(num, -1))
+
+            found = False
+            greater = -1
+
+            for i in range(len(nums2)):
+
+                if nums2[i] == num:
+                    found = True
+
+                elif found and nums2[i] > num:
+                    greater = nums2[i]
+                    break
+
+            result.append(greater)
 
         return result
